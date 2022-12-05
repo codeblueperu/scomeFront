@@ -1,0 +1,23 @@
+.login{
+    font-family: 'Poppins';
+    font-size:13px;
+    color:var(--color-primary-variant);
+}
+h4{
+    font-weight: 800;
+    font-size: 1.8rem;
+    color: var(--color-dark);
+  }
+  .subtitle{
+    display: flex;
+    font-size: 14px;
+    text-align: left;
+  }
+  .font-12{
+    font-size: 21px;    
+  }
+  .recover{
+    text-decoration: underline;
+    font-size: 14px;
+  }
+ 
